@@ -1,13 +1,23 @@
+
+
+### class: Visuelle Wahrnehmung beim Menschen und Bildqualität
+**research question: _Ist der Wert von fotorealistischen NFTs ein Indikator für subjektive Bildästhetik?_**
+by Semih Akgül, Kira Cordes, Felix Dexel and Yiran sun
+**@TUBERLIN**
+
+## our first presentation:
+https://onedrive.live.com/view.aspx?resid=C4B1D2011AE4F894!172680&ithint=file%2cpptx&authkey=!AF4JSCs3scwu88o
+
+tool for survey: soSci https://www.soscisurvey.de/
+### pretest:
+[http://www.wissenschaftliches-arbeiten-lehren.de/online-umfragetools/](http://www.wissenschaftliches-arbeiten-lehren.de/online-umfragetools/)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/9-cordes/order_experiment/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### class
-
-## our first presentation:
-https://onedrive.live.com/view.aspx?resid=C4B1D2011AE4F894!172680&ithint=file%2cpptx&authkey=!AF4JSCs3scwu88o
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
