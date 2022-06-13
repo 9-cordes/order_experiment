@@ -3,7 +3,7 @@
 ### class: Visuelle Wahrnehmung beim Menschen und Bildqualität
 **research question: _Ist der Wert von fotorealistischen NFTs ein Indikator für subjektive Bildästhetik?_**
 
-by Semih Akgül, Kira Cordes, Felix Dexel and Yiran sun
+by Semih Akgül, Kira Cordes, Felix Dexel and Yiran Sun
 **@TUBERLIN**
 
 ## our first presentation:
